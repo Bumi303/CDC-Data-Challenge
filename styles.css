@@ -13,6 +13,6 @@ input[type="text"] {
   font-family: Gotham, sans-serif;
   border: 1px solid #ccc;
   padding: 10px;
-    border-radius: 10px;
-    border-shadow: 5px;
+    border-radius: 20px;
+    border-shadow: 10px;
 }
