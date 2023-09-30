@@ -7,3 +7,10 @@ body {
     text-align: center;
     font-variant: small-caps;
 }
+input[type="text"] {
+  color: black;
+  font-size: 16px;
+  font-family: Gotham, sans-serif;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
